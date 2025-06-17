@@ -518,7 +518,7 @@ const SEOAnalyzer = () => {
       {/* Header */}
       <header style={styles.header}>
         <nav style={styles.nav}>
-          <div style={styles.logo}>🔍 SEO Analyzer Pro</div>
+          <div style={styles.logo}>🔍 SEOWizard</div>
           <ul style={styles.navLinks}>
             <li>
               <a href="#analyzer" style={styles.navLink}>
