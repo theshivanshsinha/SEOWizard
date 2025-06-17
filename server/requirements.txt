@@ -3,3 +3,5 @@ flask-cors
 gunicorn
 joblib
 scikit-learn
+beautifulsoup4
+requests
